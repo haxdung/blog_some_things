@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hugo Future Imperfect Slim
 
 **Hugo Future Imperfect** *Slim* is a theme based on [jpescador's](https://github.com/jpescador/)
@@ -204,3 +205,6 @@ This theme is released under the [Creative Commons Attribution 3.0 License](http
 is a theme by [HTML5 UP](http://html5up.net) licensed under the same terms.
 Please read the [license](https://github.com/pacollins/hugo-future-imperfect-slim/blob/master/LICENSE.md)
 for more information.
+=======
+# blog_some_things
+>>>>>>> 86d9bb9bfe8178a197f77452ca20e633c878a9dd
