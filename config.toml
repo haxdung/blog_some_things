@@ -48,20 +48,20 @@ disableLanguages        = []
 
   [params.intro]
     header                = "Ha Dzungx"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    paragraph             = "Jobs fill your pocket. Adventures fill your soul."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
+      src                 = "img/main/logo_1.png"
       shape               = "circle"
       width               = ""
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
-    about               = "This theme was developed for DUNGHX static site generator."
+    about               = "Where miscellaneous notes are gathered of Ha Dzungx."
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
@@ -319,7 +319,7 @@ disableLanguages        = []
 
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "haxdung"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -327,15 +327,15 @@ disableLanguages        = []
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  flickr                = "example"
+  # flickr                = "example"
   behance               = ""
   dribbble              = ""
   # Publishing Communities
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin              = "hà-dũng-45ab5a126"
+  # linkedin_company      = "examplebusiness"
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
@@ -356,13 +356,13 @@ disableLanguages        = []
   strava                = ""
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
+  # pinterest             = "example"
   telegram              = "example"
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  # researchgate          = "example"
+  # keybase               = "example"
+  # mastodon              = "example.com/@example"
   # Email
-  email                 = "example"
+  email                 = "dev.haxuandung97@gmail.com"
