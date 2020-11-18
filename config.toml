@@ -9,6 +9,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = []
+ignoreErrors = ["error-remote-getjson"]
 
 [markup.goldmark.renderer]
   unsafe                = true
