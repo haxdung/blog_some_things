@@ -222,7 +222,7 @@ Tuy nhiên chính vì thế nó phát sinh ra những nhược điểm của HOC
 
 Hiện tại React 16.8 đã cho ra mắt Hook, nó giúp giải quyết những vấn đề trên, tuy nhiên nếu bạn định thông đêm để refactor tất cả class component sang hook thì đừng nên làm như vậy.
 
-## Tài liệu tham kh
+## Tài liệu tham khảo
 
 https://reactjs.org/docs/higher-order-components.html
 https://dev.to/gethackteam/from-higher-order-components-hoc-to-react-hooks-2bm9
