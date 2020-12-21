@@ -69,7 +69,7 @@ filterAlbums(albums, album => album.name === 'Lạc trôi')
 filterAlbums(albums, album => album.artist === 'Sếp Tùng')
 ```
 
-Trông thì có vẻ kinh khủng nhưng thực chất, `album => album.name === 'Lạc trôi'` chỉ là 1 function, nó được trigger bên trong vòng lặp, mỗi lần lặp sẽ trigger 1 lần, với tham số là phần tử thứ `i` trong mảng.
+Trông thì có vẻ phức tạp nhưng thực chất, `album => album.name === 'Lạc trôi'` chỉ là 1 function, nó được trigger bên trong vòng lặp, mỗi lần lặp sẽ trigger 1 lần, với tham số là phần tử thứ `i` trong mảng.
 
 ```js
 filterer(albums[i])
@@ -200,7 +200,7 @@ const InfinitedScrollingUserList = withInfiniteScroll(UserList) // InfinitedScro
 const LoadingInfinitedScrollingUserList = withLoading(InfinitedScrollingUserList) // LoadingInfinitedScrollingUserList is also a component
 ```
 
-viết 1 kiểu xoắn não thì sẽ là:
+viết 1 kiểu khác thì sẽ là:
 
 ```jsx
 const LoadingInfinitedScrollingUserList = withLoading(withInfiniteScroll(UserList)) 
